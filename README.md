@@ -66,7 +66,4 @@ Isso abrirá a janela do aplicativo de desktop.
 O projeto utiliza a API HG Brasil Weather (em `TratarClima()`). APIs gratuitas, especialmente as que não exigem autenticação robusta, podem ter limites de uso ou se tornarem indisponíveis com o tempo. Caso a consulta de clima não funcione, verifique a validade da key utilizada na URL:  
 `key=a3c2217c`
 
----
-
-Se quiser, posso te ajudar a criar esse repositório no GitHub com esse README já formatado. Ou, se preferir, posso revisar o código do `CepClima.py` também. Só mandar!
 
